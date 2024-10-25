@@ -46,7 +46,7 @@ Self-taught Software Engineer specializing in Blockchain, Web3, Front-end, Back-
 
 ### N2
 - **Role**: Software Developer (Data Infrastructure)
-- **Dates**: June 2023 – Present
+- **Dates**: June 2023 – Oct 2023
 - **Responsibilities**: Assisted in creating and evolving data infrastructure for Venture Capital investors, improving investment process efficiency for startups.
 
 ### BetterBets
