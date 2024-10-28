@@ -15,7 +15,7 @@ Self-taught Software Engineer specializing in Blockchain, Web3, Front-end, Back-
 - **Front-end**: HTML, CSS, JavaScript, React, Vue 3, Redux
 - **Back-end**: Python, Node.js, Express, REST APIs, SQL, Go
 - **Blockchain/Web3**: Solidity, Ethereum Virtual Machine, Smart Contract Auditing, Foundry, Hardhat, ChainLink VRF
-- **Game Development**: Unity, Unreal Engine, C++
+- **Game Development**: Unity, Unreal Engine, C++, C#
 
 ---
 
