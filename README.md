@@ -33,7 +33,7 @@ Self-taught Software Engineer specializing in Blockchain, Web3, Front-end, Back-
 - **Udemy**: Unreal Engine 4 C++ Developer, Ethereum and Solidity: The Complete Developer’s Guide
 - **Codecademy**: Full-Stack Engineer Career Path
 - **EatTheBlocks Bootcamp**: Solidity and Smart Contract Auditing
-- **Metana Solidity Bootcamp** [Projects built during the bootcamp](#blockchain--web3)
+- **Metana Solidity Bootcamp** [Some of the projects built during the bootcamp](#blockchain--web3)
 - **Cyfrin Updraft**: Blockchain Basics, Solidity Development, Foundry, Smart Contract Security
 - **Current Courses**: **boot.dev** (Back-end Engineer Path), **Cyfrin** (Assembly and Formal Verification)
 
