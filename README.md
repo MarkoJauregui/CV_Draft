@@ -102,6 +102,11 @@ Front-end development for a crypto gambling platform using Vue 3 and GraphQL.
 - **Portfolio Website**
   My personal website in which I showcased all my experience and projects.
 
+### Back-End Development
+
+- **Mercado Libre Challenge**  
+  Get client information from an API and guarantees that all information is safe, and make it accessible for different places in the company.
+
 ### NFT Collections
 
 - **Hypebeast Collection**  
