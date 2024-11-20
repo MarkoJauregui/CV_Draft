@@ -106,6 +106,8 @@ Front-end development for a crypto gambling platform using Vue 3 and GraphQL.
 
 - **Mercado Libre Challenge**  
   Get client information from an API and guarantees that all information is safe, and make it accessible for different places in the company.
+- **Static Site Generator**
+  Create beautiful static websites only needing a markdown document as it's input.
 
 ### NFT Collections
 
