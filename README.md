@@ -63,61 +63,63 @@ Front-end development for a crypto gambling platform using Vue 3 and GraphQL.
 ### Blockchain / Web3
 
 - **Lottery Smart Contract**  
-  ETH deposit contract with a random winner selection, using pseudorandomness.
+  A decentralized smart contract where users deposit ETH into a pool, and a winner is selected randomly using pseudorandom logic. This project demonstrates a basic implementation of lottery mechanics and highlights the challenges of achieving randomness, on-chain without external oracles like ChainLink VRF.
 - **NFT Staking Smart Contract**  
-  ERC20 and ERC721 staking contract, enabling NFT staking with ERC20 rewards.
+  A comprehensive staking system where users stake ERC721 NFTs to earn rewards in an ERC20 token. Features include token distribution proportional to staking duration and automated calculations for accrued rewards. It showcases the integration of ERC standards and DeFi principles.
 
 - **Metana Stable Coin**  
-  USD-pegged stablecoin with WETH deposits.
+  A USD-pegged stablecoin leveraging WETH as collateral. Implemented with minting and burning mechanics based on user deposits, ensuring stability and a peg to fiat currency. It also includes price oracles and liquidation mechanisms to maintain collateralization.
 
 - **Multisig Wallet**  
-  Multi-party approval wallet from EatTheBlocks bootcamp.
+  A decentralized wallet requiring approvals from multiple parties for transactions. Built during the EatTheBlocks bootcamp, this project enhances security and accountability in managing funds collaboratively.
 
 - **Upgradable Smart Contracts**  
-  Upgradeable staking contract with “God-mode” functionality.
+  A staking contract designed with an upgradeable proxy pattern, enabling future improvements without redeploying the contract. Includes “God-mode” functionality for administrative control, showcasing advanced Solidity development practices.
 
 - **Blockchain Randomness Attack**  
-  Smart contract exploit for a dice game, demonstrating randomness issues.
+  A proof-of-concept exploit targeting a dice game with predictable randomness. This project emphasizes the importance of secure random number generation in smart contracts.
 
 - **Token Vendor Dapp**  
-  Custom token buy/sell dapp.
+  A decentralized application allowing users to buy and sell a custom ERC20 token with ETH. Demonstrates the implementation of a simple marketplace for token trading with a focus on user experience.
 
 - **Decentralized Staking App**  
-  Scaffold-ETH staking app.
+  A scaffold-ETH-powered staking application where users can lock tokens to earn rewards. Includes a front-end interface for interacting with smart contracts, emphasizing usability and transparency.
 
 - **Advanced NFT**  
-  NFT project with Merkle Tree airdrop and commit-reveal random ID assignment.
+  An NFT project implementing a Merkle Tree-based airdrop for efficient claim processing and a commit-reveal scheme for fair random ID assignment. This project also features a state machine for sale phases and pull payment patterns to ensure scalability and fairness.
 
 - **Yukiko Studios**  
-  Dapp for sending messages with GIFs.
+  A dapp enabling users to send customized messages alongside GIFs. Built with a focus on user engagement and interaction within a decentralized ecosystem.
+
 - **CrowdCoin**  
-  Kickstarter-inspired decentralized application.
+  A Kickstarter-inspired decentralized crowdfunding application. Users can create projects, contribute funds, and track milestones. This project highlights the potential of blockchain in disrupting traditional fundraising models.
 
 ### Front-End Development
 
 - **Jamming**  
-  Spotify clone using the Spotify API.
+  A Spotify API-integrated clone allowing users to create and manage playlists directly on their Spotify accounts. Features include dynamic search and drag-and-drop playlist management, showcasing API consumption and state management skills.
 - **Web3 Sisters**  
-  Landing page with responsive design for Web3 Sisters.
+  A responsive landing page designed for the Web3 Sisters community. Focused on clean UI/UX design, it highlights proficiency in front-end frameworks and mobile-friendly development.
 - **Portfolio Website**
-  My personal website in which I showcased all my experience and projects.
+  A personal website that consolidates all my projects and experience, built to showcase front-end development skills and responsive design practices.
 
 ### Back-End Development
 
 - **Mercado Libre Challenge**  
-  Get client information from an API and guarantees that all information is safe, and make it accessible for different places in the company.
+  Developed an API integration solution to fetch and store client information securely. The project included encryption, data accessibility, and compliance with security best practices, demonstrating strong back-end development and security implementation skills.
 - **Static Site Generator**
-  Create beautiful static websites only needing a markdown document as it's input.
+  Created a generator that transforms Markdown files into fully styled static websites. Focused on simplifying content creation for users without coding knowledge.
 
 ### NFT Collections
 
 - **Hypebeast Collection**  
-  NFT collection with exotic animals.
+  An ERC1155 NFT collection featuring exotic animals, each with unique attributes.
+
 - **Anti Panic Attack NFT Collection**  
-  Hypnotic NFT collection for viewer relaxation.
+  A therapeutic NFT collection using hypnotic color combinations to promote relaxation and mindfulness. Combines art and blockchain for a unique user experience.
 
 - **Mousetronauts**  
-  Space-themed NFT collection featuring mice.
+  A space-themed NFT collection featuring animated mice characters, showcasing creativity and storytelling within the NFT space.
 
 ---
 
