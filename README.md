@@ -106,7 +106,8 @@ Front-end development for a crypto gambling platform using Vue 3 and GraphQL.
 ### Back-End Development
 
 - **Mercado Libre Challenge**  
-  Developed an API integration solution to fetch and store client information securely. The project included encryption, data accessibility, and compliance with security best practices, demonstrating strong back-end development and security implementation skills.
+  Developed an API integration solution to fetch and store client information securely. The project included encryption, data accessibility, and compliance with security best practices, demonstrating strong back-end development and security implementation skills. For this project I used: Python, FastAPI, SQLAlchemy,PostgreSQL, Vault,Docker
+
 - **Static Site Generator**
   Created a generator that transforms Markdown files into fully styled static websites. Focused on simplifying content creation for users without coding knowledge.
 
